@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PoE-HW/static/css/main.e6c13ad2.css",
-    "main.js": "/PoE-HW/static/js/main.3131e9ae.js",
+    "main.js": "/PoE-HW/static/js/main.9bac5da3.js",
     "static/js/453.136d806e.chunk.js": "/PoE-HW/static/js/453.136d806e.chunk.js",
     "index.html": "/PoE-HW/index.html",
     "main.e6c13ad2.css.map": "/PoE-HW/static/css/main.e6c13ad2.css.map",
-    "main.3131e9ae.js.map": "/PoE-HW/static/js/main.3131e9ae.js.map",
+    "main.9bac5da3.js.map": "/PoE-HW/static/js/main.9bac5da3.js.map",
     "453.136d806e.chunk.js.map": "/PoE-HW/static/js/453.136d806e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3131e9ae.js"
+    "static/js/main.9bac5da3.js"
   ]
 }
